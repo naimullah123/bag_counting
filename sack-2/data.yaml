@@ -1,0 +1,12 @@
+names:
+- Sack
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: sack-t7ftj
+  url: https://universe.roboflow.com/meet-zhc9j/sack-t7ftj/dataset/2
+  version: 2
+  workspace: meet-zhc9j
+test: ../test/images
+train: ../train/images
+val: ../valid/images
